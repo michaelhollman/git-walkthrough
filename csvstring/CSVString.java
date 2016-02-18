@@ -32,6 +32,8 @@ public class CSVString {
 		}
 	}
 
+/// conflict!!
+fooowefklasdhjflaksjd
 	public int size() {
 		String partialStr = str;
 		if (partialStr.indexOf(delim) != -1) {
